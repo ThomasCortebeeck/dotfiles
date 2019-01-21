@@ -45,3 +45,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = thomas.cortebeeck93@gmail.com
+	name = Thomas Cortebeeck
